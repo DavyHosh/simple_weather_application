@@ -1,6 +1,6 @@
 ##Weather App Project
 
-This project guides you through building a weather application that fetches weather data from the OpenWeatherMap API and displays it on a user-friendly interface. You'll gain hands-on experience with HTML, CSS, and JavaScript, while incorporating an external API to enhance your web development skills.
+This project involves a weather application that fetches weather data from the OpenWeatherMap API and displays it on a user-friendly interface. You'll gain hands-on experience with HTML, CSS, and JavaScript, while incorporating an external API to enhance your web development skills.
 
 ##Objectives
 
